@@ -11,7 +11,7 @@ function App() {
     { id: 5, title: 'Digital Illustration', category: 'Design', icon: <FaPalette />, provider: 'Chris P.', exchangeFor: 'Web Development' },
     { id: 6, title: 'Calculus Tutoring', category: 'Academics', icon: <FaCalculator />, provider: 'Michael S.', exchangeFor: 'Piano Lessons' }
   ];
-
+//thsi is comment
   return (
     <div className="App">
       {/* Navigation */}
